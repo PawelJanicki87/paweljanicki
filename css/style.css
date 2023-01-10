@@ -1,0 +1,146 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  background: #edf3f3;
+  padding: 40px;
+}
+
+.wrapper {
+  display: flex;
+  flex-direction: row-reverse;
+  width: 1280px;
+  margin: 0 auto;
+  background: #F5F7FA;
+  justify-content: center;
+  box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+
+}
+aside {
+  width: 400px;
+  background: hwb(209 4% 53%);
+}
+
+.cv-photo{
+  margin-top: 25;
+}
+
+.header-secondary{
+  color: #130d0d;
+  font-size: 30px;
+}
+.contact-links{
+  color: #1b1414;
+  font-size: 14;
+  font-weight: 400;
+  line-height: 24;
+  text-decoration-line: none;
+
+}
+a:hover,
+a:focus {
+  color:  #F5F7FA;
+  text-decoration: none;
+
+}
+a {
+  color: #309999;
+  text-decoration: none;
+}
+
+.bold{
+  font-weight: 700;
+
+}
+.list-secondary{
+list-style: none;
+  font-size: 16px;
+  line-height: 24px;
+  margin-left: 0px;
+  padding-left: 0px;
+  list-style-position:inside;
+  text-align:start
+}
+.list-secondary-item{
+  color: #FFFFFF;
+}
+.contact-block{
+  margin-top: 30px;
+  margin-left: 15px;
+
+}
+.contact-links{
+  text-decoration: none;
+  padding-bottom: 30px;
+}
+.contact-block {
+  text-decoration-line: none;
+}
+
+.tech-block{
+  margin-top: 30px;
+  margin-left: 15px;
+}
+.soft-block{
+margin-top: 30px;
+margin-left: 15px;
+}
+.launguage-block{
+  margin-top: 30px;
+  margin-left: 15px;
+}
+main{
+  padding-left: 88px;
+  padding-top: 70px;
+  padding-bottom: 70px;
+  padding-right: 70px;
+}
+.main-description{
+  width: 400px;
+
+}
+.job-titlle{
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 30px;
+
+} 
+h1{
+  font-weight: 700;
+  font-size: 45px;
+   line-height: 55px;
+
+}
+.description{
+  color: #022d49;
+  font-weight: 600;
+font-size: 18px;
+line-height: 30px;
+margin-bottom: 40px;
+text-decoration-line: none;
+}
+
+.work{
+  font-weight: 700;
+font-size: 22px;
+line-height: 27px;
+  width: 600px;
+  margin-bottom: 51px;
+}
+.header-primary{
+  font-weight: 700;
+font-size: 35px;
+line-height: 50px;
+}
+
+.job-position{
+  font-weight: 700;
+font-size: 25px;
+line-height: 30px;
+}
+.highlight{
+  color: #48ca7a;
+}
+.work-time{
+  font-weight: 400;
+font-size: 12px;
+line-height: 15px;
+}
