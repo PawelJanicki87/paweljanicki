@@ -12,22 +12,22 @@ body {
   background: #F5F7FA;
   justify-content: center;
   box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
-
 }
+
 aside {
   width: 400px;
   background: hwb(209 4% 53%);
 }
 
-.cv-photo{
+.cv-photo {
   margin-top: 25;
 }
 
-.header-secondary{
+.header-secondary {
   color: #130d0d;
   font-size: 30px;
 }
-.contact-links{
+.contact-links {
   color: #1b1414;
   font-size: 14;
   font-weight: 400;
@@ -35,12 +35,13 @@ aside {
   text-decoration-line: none;
 
 }
+
 a:hover,
 a:focus {
   color:  #F5F7FA;
   text-decoration: none;
-
 }
+
 a {
   color: #309999;
   text-decoration: none;
@@ -48,9 +49,9 @@ a {
 
 .bold{
   font-weight: 700;
-
 }
-.list-secondary{
+
+.list-secondary {
 list-style: none;
   font-size: 16px;
   line-height: 24px;
@@ -59,57 +60,64 @@ list-style: none;
   list-style-position:inside;
   text-align:start
 }
+
 .list-secondary-item{
   color: #FFFFFF;
 }
+
 .contact-block{
   margin-top: 30px;
   margin-left: 15px;
-
 }
-.contact-links{
+
+.contact-links {
   text-decoration: none;
   padding-bottom: 30px;
 }
+
 .contact-block {
   text-decoration-line: none;
 }
 
-.tech-block{
+.tech-block {
   margin-top: 30px;
   margin-left: 15px;
 }
-.soft-block{
+
+.soft-block {
 margin-top: 30px;
 margin-left: 15px;
 }
-.launguage-block{
+
+.launguage-block {
   margin-top: 30px;
   margin-left: 15px;
 }
-main{
+
+main {
   padding-left: 88px;
   padding-top: 70px;
   padding-bottom: 70px;
   padding-right: 70px;
 }
-.main-description{
-  width: 400px;
 
+.main-description {
+  width: 400px;
 }
-.job-titlle{
+
+.job-titlle {
   font-weight: 700;
   font-size: 20px;
   line-height: 30px;
-
 } 
-h1{
+
+h1 {
   font-weight: 700;
   font-size: 45px;
    line-height: 55px;
-
 }
-.description{
+
+.description {
   color: #022d49;
   font-weight: 600;
 font-size: 18px;
@@ -118,28 +126,30 @@ margin-bottom: 40px;
 text-decoration-line: none;
 }
 
-.work{
+.work {
   font-weight: 700;
 font-size: 22px;
 line-height: 27px;
   width: 600px;
   margin-bottom: 51px;
 }
-.header-primary{
+
+.header-primary {
   font-weight: 700;
 font-size: 35px;
 line-height: 50px;
 }
 
-.job-position{
+.job-position {
   font-weight: 700;
 font-size: 25px;
 line-height: 30px;
 }
-.highlight{
+
+.highlight {
   color: #48ca7a;
 }
-.work-time{
+.work-time {
   font-weight: 400;
 font-size: 12px;
 line-height: 15px;
